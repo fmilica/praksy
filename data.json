@@ -1,0 +1,178 @@
+[
+  {
+    "id": 145,
+    "name": "PUMA FENTY",
+    "imageUrl": "./shoe-imgs/puma.jpg",
+    "price": 60,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 148,
+    "name": "VANS AUTHENTIC",
+    "imageUrl": "./shoe-imgs/vans.jpg",
+    "price": 77,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 201,
+    "name": "CONVERSE ALL STAR",
+    "imageUrl": "./shoe-imgs/conv.jpg",
+    "price": 90,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 205,
+    "name": "ARMANI VIALENTE",
+    "imageUrl": "./shoe-imgs/armani.jpg",
+    "price": 290,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 210,
+    "name": "DKNY HEELWOOD",
+    "imageUrl": "./shoe-imgs/dkny.jpg",
+    "price": 63,
+    "priceCurrency": "$",
+    "value": "heels"
+  },
+  {
+    "id": 211,
+    "name": "IPANEMA GOLDEN",
+    "imageUrl": "./shoe-imgs/ipanema.jpg",
+    "price": 32,
+    "priceCurrency": "$",
+    "value": "flipflops"
+  },
+  {
+    "id": 258,
+    "name": "GANT CASUAL",
+    "imageUrl": "./shoe-imgs/gant.jpg",
+    "price": 68,
+    "priceCurrency": "$",
+    "value": "casual"
+  },
+  {
+    "id": 222,
+    "name": "BIRK LIFE",
+    "imageUrl": "./shoe-imgs/birk.jpg",
+    "price": 50,
+    "priceCurrency": "$",
+    "value": "flats"
+  },
+  {
+    "id": 325,
+    "name": "BLINK FLOWER",
+    "imageUrl": "./shoe-imgs/blink.jpg",
+    "price": 69,
+    "priceCurrency": "$",
+    "value": "sandals"
+  },
+  {
+    "id": 567,
+    "name": "CALVIN STYLE C50",
+    "imageUrl": "./shoe-imgs/calvin.jpg",
+    "price": 120,
+    "priceCurrency": "$",
+    "value": "formal"
+  },
+  {
+    "id": 311,
+    "name": "SKECHERS FLAT",
+    "imageUrl": "./shoe-imgs/flats-skechers.jpg",
+    "price": 44,
+    "priceCurrency": "$",
+    "value": "flats"
+  },
+  {
+    "id": 161,
+    "name": "CALVIN KLEIN FLIP",
+    "imageUrl": "./shoe-imgs/flipflop-ck.jpg",
+    "price": 135,
+    "priceCurrency": "$",
+    "value": "flipflops"
+  },
+  {
+    "id": 877,
+    "name": "GRENDHA CASTIC",
+    "imageUrl": "./shoe-imgs/grendha.jpg",
+    "price": 60,
+    "priceCurrency": "$",
+    "value": "sandals"
+  },
+  {
+    "id": 122,
+    "name": "CALVIN KLEIN HIGHLIFE",
+    "imageUrl": "./shoe-imgs/heels-ck.jpg",
+    "price": 132,
+    "priceCurrency": "$",
+    "value": "heels"
+  },
+  {
+    "id": 149,
+    "name": "LACOSTE GREEN",
+    "imageUrl": "./shoe-imgs/lacoste.jpg",
+    "price": 85,
+    "priceCurrency": "$",
+    "value": "casual"
+  },
+  {
+    "id": 118,
+    "name": "NEW BALANCE NEWLY",
+    "imageUrl": "./shoe-imgs/newb.jpg",
+    "price": 67,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 318,
+    "name": "DKNY PAPILIO",
+    "imageUrl": "./shoe-imgs/papilio.jpg",
+    "price": 36,
+    "priceCurrency": "$",
+    "value": "sportsandals"
+  },
+  {
+    "id": 663,
+    "name": "TOMMY HILFIGER MIGHTY",
+    "imageUrl": "./shoe-imgs/sandals-tommy.jpg",
+    "price": 315,
+    "priceCurrency": "$",
+    "value": "sandals"
+  },
+  {
+    "id": 681,
+    "name": "TOMMY HILFIGER EASY",
+    "imageUrl": "./shoe-imgs/sports-tommy.jpg",
+    "price": 162,
+    "priceCurrency": "$",
+    "value": "sportsandals"
+  },
+  {
+    "id": 428,
+    "name": "TOMMY HILFIGER GETIT",
+    "imageUrl": "./shoe-imgs/tommy.jpg",
+    "price": 236,
+    "priceCurrency": "$",
+    "value": "sport"
+  },
+  {
+    "id": 193,
+    "name": "TOMS MOONWAY",
+    "imageUrl": "./shoe-imgs/toms.jpg",
+    "price": 95,
+    "priceCurrency": "$",
+    "value": "formal"
+  },
+  {
+    "id": 111,
+    "name": "ZAXY MILTX",
+    "imageUrl": "./shoe-imgs/zaxy.jpg",
+    "price": 50,
+    "priceCurrency": "$",
+    "value": "formal"
+  }
+]
