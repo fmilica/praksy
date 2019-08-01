@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "PUMA FENTY",
-    "imageUrl": "./shoe-imgs/puma.jpg",
+    "imageUrl": './shoe-imgs/puma.jpg',
     "price": 60,
     "priceCurrency": "$",
     "value": "sport"
