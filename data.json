@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "PUMA FENTY",
-    "imageUrl": "./shoe-imgs/puma.jpg",
+    "imageUrl": "./shoeimgs/puma.jpg",
     "price": 60,
     "priceCurrency": "$",
     "value": "sport"
@@ -10,7 +10,7 @@
   {
     "id": 148,
     "name": "VANS AUTHENTIC",
-    "imageUrl": "./shoe-imgs/vans.jpg",
+    "imageUrl": "./shoeimgs/vans.jpg",
     "price": 77,
     "priceCurrency": "$",
     "value": "sport"
@@ -18,7 +18,7 @@
   {
     "id": 201,
     "name": "CONVERSE ALL STAR",
-    "imageUrl": "./shoe-imgs/conv.jpg",
+    "imageUrl": "./shoeimgs/conv.jpg",
     "price": 90,
     "priceCurrency": "$",
     "value": "sport"
@@ -26,7 +26,7 @@
   {
     "id": 205,
     "name": "ARMANI VIALENTE",
-    "imageUrl": "./shoe-imgs/armani.jpg",
+    "imageUrl": "./shoeimgs/armani.jpg",
     "price": 290,
     "priceCurrency": "$",
     "value": "sport"
@@ -34,7 +34,7 @@
   {
     "id": 210,
     "name": "DKNY HEELWOOD",
-    "imageUrl": "./shoe-imgs/dkny.jpg",
+    "imageUrl": "./shoeimgs/dkny.jpg",
     "price": 63,
     "priceCurrency": "$",
     "value": "heels"
