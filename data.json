@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "PUMA FENTY",
-    "imageUrl": "../shoeimgs/puma.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018fw/big/36648802-blk.jpg",
     "price": 60,
     "priceCurrency": "$",
     "value": "sport"
@@ -10,7 +10,7 @@
   {
     "id": 148,
     "name": "VANS AUTHENTIC",
-    "imageUrl": "./shoeimgs/vans.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2016pl/big/vd3hy28.jpg",
     "price": 77,
     "priceCurrency": "$",
     "value": "sport"
@@ -18,7 +18,7 @@
   {
     "id": 201,
     "name": "CONVERSE ALL STAR",
-    "imageUrl": "./shoeimgs/conv.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2016ss/big/3j235c.jpg",
     "price": 90,
     "priceCurrency": "$",
     "value": "sport"
@@ -26,7 +26,7 @@
   {
     "id": 205,
     "name": "ARMANI VIALENTE",
-    "imageUrl": "./shoeimgs/armani.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019jz/big/x8x007-n692.jpg",
     "price": 290,
     "priceCurrency": "$",
     "value": "sport"
@@ -34,7 +34,7 @@
   {
     "id": 210,
     "name": "DKNY HEELWOOD",
-    "imageUrl": "./shoeimgs/dkny.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019fw/big/k2946828-blk.jpg",
     "price": 63,
     "priceCurrency": "$",
     "value": "heels"
@@ -42,7 +42,7 @@
   {
     "id": 211,
     "name": "IPANEMA GOLDEN",
-    "imageUrl": "./shoe-imgs/ipanema.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/82517-20766.jpg",
     "price": 32,
     "priceCurrency": "$",
     "value": "flipflops"
@@ -50,7 +50,7 @@
   {
     "id": 258,
     "name": "GANT CASUAL",
-    "imageUrl": "./shoe-imgs/gant.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018fw/big/17599835-g00.jpg",
     "price": 68,
     "priceCurrency": "$",
     "value": "casual"
@@ -58,7 +58,7 @@
   {
     "id": 222,
     "name": "BIRK LIFE",
-    "imageUrl": "./shoe-imgs/birk.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019pl/big/1013682-blk.jpg",
     "price": 50,
     "priceCurrency": "$",
     "value": "flats"
@@ -66,7 +66,7 @@
   {
     "id": 325,
     "name": "BLINK FLOWER",
-    "imageUrl": "./shoe-imgs/blink.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018ss/big/802780-a01.jpg",
     "price": 69,
     "priceCurrency": "$",
     "value": "sandals"
@@ -74,7 +74,7 @@
   {
     "id": 567,
     "name": "CALVIN STYLE C50",
-    "imageUrl": "./shoe-imgs/calvin.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018jz/big/re9797-blk.jpg",
     "price": 120,
     "priceCurrency": "$",
     "value": "formal"
@@ -82,7 +82,7 @@
   {
     "id": 311,
     "name": "SKECHERS FLAT",
-    "imageUrl": "./shoe-imgs/flats-skechers.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018ss/big/31546-blk.jpg",
     "price": 44,
     "priceCurrency": "$",
     "value": "flats"
@@ -90,7 +90,7 @@
   {
     "id": 161,
     "name": "CALVIN KLEIN FLIP",
-    "imageUrl": "./shoe-imgs/flipflop-ck.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2018ss/big/s0063-blk.jpg",
     "price": 135,
     "priceCurrency": "$",
     "value": "flipflops"
@@ -98,7 +98,7 @@
   {
     "id": 877,
     "name": "GRENDHA CASTIC",
-    "imageUrl": "./shoe-imgs/grendha.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/82583-21035.jpg",
     "price": 60,
     "priceCurrency": "$",
     "value": "sandals"
@@ -114,7 +114,7 @@
   {
     "id": 149,
     "name": "LACOSTE GREEN",
-    "imageUrl": "./shoe-imgs/lacoste.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019pl/big/737cma0013454.jpg",
     "price": 85,
     "priceCurrency": "$",
     "value": "casual"
@@ -122,7 +122,7 @@
   {
     "id": 118,
     "name": "NEW BALANCE NEWLY",
-    "imageUrl": "./shoe-imgs/newb.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019fw/big/gw500smb.jpg",
     "price": 67,
     "priceCurrency": "$",
     "value": "sport"
@@ -130,7 +130,7 @@
   {
     "id": 318,
     "name": "DKNY PAPILIO",
-    "imageUrl": "./shoe-imgs/papilio.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/1013577-blk.jpg",
     "price": 36,
     "priceCurrency": "$",
     "value": "sportsandals"
@@ -138,7 +138,7 @@
   {
     "id": 663,
     "name": "TOMMY HILFIGER MIGHTY",
-    "imageUrl": "./shoe-imgs/sandals-tommy.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/19s-4081-990.jpg",
     "price": 315,
     "priceCurrency": "$",
     "value": "sandals"
@@ -146,7 +146,7 @@
   {
     "id": 681,
     "name": "TOMMY HILFIGER EASY",
-    "imageUrl": "./shoe-imgs/sports-tommy.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/19s-4107-990.jpg",
     "price": 162,
     "priceCurrency": "$",
     "value": "sportsandals"
@@ -154,7 +154,7 @@
   {
     "id": 428,
     "name": "TOMMY HILFIGER GETIT",
-    "imageUrl": "./shoe-imgs/tommy.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019jz/big/fm56822279-blk.jpg",
     "price": 236,
     "priceCurrency": "$",
     "value": "sport"
@@ -162,7 +162,7 @@
   {
     "id": 193,
     "name": "TOMS MOONWAY",
-    "imageUrl": "./shoe-imgs/toms.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2017ss/big/10009833-blk.jpg",
     "price": 95,
     "priceCurrency": "$",
     "value": "formal"
@@ -170,7 +170,7 @@
   {
     "id": 111,
     "name": "ZAXY MILTX",
-    "imageUrl": "./shoe-imgs/zaxy.jpg",
+    "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/82707-50522.jpg",
     "price": 50,
     "priceCurrency": "$",
     "value": "formal"
