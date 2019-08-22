@@ -5,7 +5,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2018fw/big/36648802-blk.jpg",
     "price": 60,
     "priceCurrency": "$",
-    "value": "sport shoes",
+    "value": "sports shoes",
     "age": "g"
   },
   {
@@ -14,7 +14,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2016pl/big/vd3hy28.jpg",
     "price": 77,
     "priceCurrency": "$",
-    "value": "sport shoes",
+    "value": "sports shoes",
     "age": "gb"
   },
   {
@@ -23,7 +23,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2016ss/big/3j235c.jpg",
     "price": 90,
     "priceCurrency": "$",
-    "value": "sport shoes",
+    "value": "sports shoes",
     "age": "gb"
   },
   {
@@ -32,7 +32,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019jz/big/x8x007-n692.jpg",
     "price": 290,
     "priceCurrency": "$",
-    "value": "sport shoes",
+    "value": "sports shoes",
     "age": "mb"
   },
   {
@@ -59,7 +59,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2018fw/big/17599835-g00.jpg",
     "price": 68,
     "priceCurrency": "$",
-    "value": "casual",
+    "value": "casual shoes",
     "age": "wg"
   },
   {
@@ -86,7 +86,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2018jz/big/re9797-blk.jpg",
     "price": 120,
     "priceCurrency": "$",
-    "value": "formal",
+    "value": "formal shoes",
     "age": "w"
   },
   {
@@ -131,7 +131,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019pl/big/737cma0013454.jpg",
     "price": 85,
     "priceCurrency": "$",
-    "value": "casual",
+    "value": "casual shoes",
     "age": "m"
   },
   {
@@ -140,7 +140,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019fw/big/gw500smb.jpg",
     "price": 67,
     "priceCurrency": "$",
-    "value": "sport",
+    "value": "sports shoes",
     "age": "gb"
   },
   {
@@ -149,7 +149,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/1013577-blk.jpg",
     "price": 36,
     "priceCurrency": "$",
-    "value": "sportsandals",
+    "value": "sport sandals",
     "age": "wmgb"
   },
   {
@@ -167,7 +167,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/19s-4107-990.jpg",
     "price": 162,
     "priceCurrency": "$",
-    "value": "sportsandals",
+    "value": "sport sandals",
     "age": "mb"
   },
   {
@@ -176,7 +176,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019jz/big/fm56822279-blk.jpg",
     "price": 236,
     "priceCurrency": "$",
-    "value": "sport",
+    "value": "sports shoes",
     "age": "mb"
   },
   {
@@ -185,7 +185,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2017ss/big/10009833-blk.jpg",
     "price": 95,
     "priceCurrency": "$",
-    "value": "formal",
+    "value": "formal shoes",
     "age": "wg"
   },
   {
@@ -194,7 +194,7 @@
     "imageUrl": "https://cdn.officeshoes.ws/product_images/2019ss/big/82707-50522.jpg",
     "price": 50,
     "priceCurrency": "$",
-    "value": "formal",
+    "value": "formal shoes",
     "age": "wg"
   }
 ]
